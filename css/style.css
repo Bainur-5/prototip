@@ -17,7 +17,7 @@ body{
     animation: infinite;
 }
 .drac{
-    background-color: dodgerblue !important;
+    background: url('https://img.freepik.com/free-photo/3d-abstract-background-with-network-connections-low-poly-plexus-design_1048-11867.jpg?size=626&ext=jpg') center/cover no-repeat;
 }
 /*  */
 .bg_HTML{
@@ -67,4 +67,10 @@ body{
 }
 .python_2{
     background: url('https://insights.dice.com/wp-content/uploads/2019/11/shutterstock_1386882278-1.jpg') center/cover no-repeat   ;
+}
+/*  */
+.text1_2_bg{
+    background: url('https://atu.kz/wp-content/uploads/2019/08/20170301155447.jpg') center/cover no-repeat;
+    height: 40vh;
+    width: auto;
 }
