@@ -266,3 +266,19 @@ body{
     margin-top: 0;
     border: 1px solid white;
 }
+@media screen and (max-width:850px ){
+    .android{
+        width: 100%;
+        margin: 5% 0;
+    }
+    .fron_end{
+        width: 100%;
+        margin: 5% 0;
+    }
+    .uslovia1 {
+        width: 40%;
+    }
+    .eshe .uslovia_1{
+        width: 40%;
+    }
+}
